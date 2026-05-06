@@ -91,7 +91,6 @@ Developed an interactive dashboard including:
 ---
 
 ## Dashboard Preview
-## 📸 Dashboard Preview
 
 <p align="center">
   <img src="Dashboard_PIC.png" alt="Sales Dashboard" width="700"/>
